@@ -13,7 +13,7 @@
 <h2 align="left">👨‍💻 About Me</h2>
 
 <p align="left">
-  I'm a 19-year-old Software Engineering student from Brasília - DF, currently focused on <strong>Cybersecurity</strong> and backend development.<br><br>
+  I'm a 20-year-old Software Engineering student from Brasília - DF, currently focused on <strong>Cybersecurity</strong> and backend development.<br><br>
   - 🎓 5th semester of Software Engineering at IDP - Instituto de Desenvolvimento e Pesquisa<br>
   - 🕶️ Passionate about cybersecurity, hacking challenges and automation<br>
   - ⚔️ Exploring tools like Nmap, Nikto, Hydra, Wireshark, and participating in CTFs<br>
