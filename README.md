@@ -12,7 +12,7 @@
   - Operações de Segurança (SOC)  
   - Resposta a Incidentes (IR)  
   - Red Team / Blue Team (Purple Team)  
-- 💻 Experiência com **Pyhton, C/C++, Assembly Redes e Banco de Dados**.  
+- 💻 Experiência com **Pyhton, C/C++, Assembly, Redes e Banco de Dados**.  
 - 🛠️ Busco aplicar habilidades práticas em projetos que fortaleçam a detecção, análise de vulnerabilidades e defesa contra ameaças cibernéticas.  
 
 ---
