@@ -13,7 +13,12 @@
   - Resposta a Incidentes (IR)  
   - Red Team / Blue Team (Purple Team)  
 - 💻 Experiência com **Pyhton, C/C++, Assembly, Redes e Banco de Dados**.  
-- 🛠️ Busco aplicar habilidades práticas em projetos que fortaleçam a detecção, análise de vulnerabilidades e defesa contra ameaças cibernéticas.  
+- 🛠️ Busco aplicar habilidades práticas em projetos que fortaleçam a detecção, análise de vulnerabilidades e defesa contra ameaças cibernéticas.
+- 🔎 Atualmente estudando **Engenharia Reversa** para reforçar conhecimentos em:
+  - Análise de binários e malware (Assembly, C, C++)
+  - Ferramentas como Ghidra, Radare2 e IDA Free
+  - Exploit Development (com foco em segurança ofensiva ética)
+
 
 ---
 
