@@ -52,7 +52,7 @@
 ---
 
 ## 📫 Contato
-- 📧 **matheus.ventura.dev@gmail.com**  
+- 📧 **matheusgventura10@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/matheusgventura)  
 - 🔗 [Portfólio (GitHub Pages em breve)](https://matheusgventura.github.io)
 
