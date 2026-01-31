@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Sobre mim
-- 🎓 Estudante de **Engenharia de Software** (5º semestre - IDP).  
+- 🎓 Estudante de **Engenharia de Software** (6º semestre - IDP).  
 - 🔒 Apaixonado por **Cibersegurança**, com foco em:
   - Operações de Segurança (SOC)  
   - Resposta a Incidentes (IR)  
