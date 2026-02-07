@@ -43,14 +43,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MatheusgVentura&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusgVentura&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Contato
 - 📧 **matheusgventura10@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/matheusgventura)  
