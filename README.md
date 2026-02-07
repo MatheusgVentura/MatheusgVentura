@@ -46,7 +46,7 @@
 ## 📫 Contato
 - 📧 **matheusgventura10@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/matheusgventura)  
-- 🔗 [Portfólio (GitHub Pages em breve)](https://matheusgventura.github.io)
+- 🔗 [Portfólio](https://matheusgventura.github.io)
 
 ---
 
