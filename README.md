@@ -1,21 +1,21 @@
 <h1 align="center">👋 Olá, eu sou o Matheus Ventura</h1>
 
 <p align="center">
-  <strong>Engenheiro de Software | Backend Developer | Cybersecurity Specialist</strong>
+  <strong>Engenharia de Software | Backend (Python/Node.js) | AppSec (Security by Design)</strong>
 </p>
 
 <p align="center">
-  <em>"Construindo sistemas escaláveis com a mentalidade de Security by Design."</em>
+  <em>"Construindo sistemas escaláveis com mentalidade de Security by Design."</em>
 </p>
 
 ---
 
 ## 🚀 Sobre mim
-- 🎓 Estudante de **Engenharia de Software** (6º semestre - IDP).  
-- 💻 **Backend & Arquitetura:** Focado em Python (Flask/Django) e Node.js, aplicando boas práticas de **TDD (Test-Driven Development)** e **Design Patterns (GoF)**.
-- 🔒 **Cybersecurity:** Especialista em Defesa de Aplicações (AppSec), IAM (JWT/RBAC) e Cloud Security. 
-- 🛠️ **Automação:** Experiência em orquestração de fluxos de dados com **n8n** e containers **Docker**.
-- 🔎 Atualmente aprofundando em **Engenharia Reversa** e **Malware Analysis** para entender a segurança no nível mais baixo da computação (Assembly/C++).
+- 🎓 Estudante de **Engenharia de Software** (6º semestre - IDP).
+- 💻 **Backend:** Python (Flask/Django) e Node.js, com práticas de **testes (TDD)** e **design patterns**.
+- 🔒 **AppSec / IAM:** JWT, RBAC, OWASP Top 10 e hardening básico.
+- 🛠️ **Automação & Infra:** n8n, Docker/Compose e Linux.
+- 🔎 Estudando **Engenharia Reversa** e **Malware Analysis** (Assembly/C++).
 
 ---
 
@@ -38,26 +38,26 @@
 **Segurança:**
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/-TryHackMe-212c42?logo=tryhackme&logoColor=white)
-*IAM (JWT/RBAC), OWASP Top 10, Hardening, Pentesting.*
+*IAM (JWT/RBAC), OWASP Top 10, Hardening, Pentest em ambiente controlado.*
 
 ---
 
 ## 📌 Projetos em Destaque
 
-### 🤖 [Chatbot Inteligente com RAG & Security](SEU_LINK_AQUI)
-*Este é o meu projeto principal, unindo Engenharia de Software e Segurança.*
-- **Backend:** Desenvolvido com fluxos automatizados no **n8n** e integração de APIs de IA.
-- **Segurança:** Implementação de **RBAC e JWT** via Supabase para controle de acesso rigoroso.
-- **Inovação:** Uso de técnica **RAG (Retrieval-Augmented Generation)** para garantir que a IA responda apenas com base em dados oficiais e autorizados.
+### 🤖 [Chatbot com RAG + IAM (RBAC/JWT)](COLE_O_LINK_DO_REPO)
+- **Backend & Automação:** n8n + integrações via APIs/webhooks.
+- **Segurança:** Supabase Auth + JWT + RBAC para controle de acesso.
+- **RAG:** respostas **ancoradas em base autorizada**, reduzindo risco de conteúdo fora do contexto permitido.
 
-### 🚩 [Cyber Labs & Write-ups](SEU_LINK_AQUI)
-- Documentação de mais de **25 laboratórios no TryHackMe** e resoluções de desafios de **CTF**.
-- Foco em análise de vulnerabilidades web e escalada de privilégios.
+### 🚩 [Cyber Labs & Write-ups](COLE_O_LINK_DO_REPO)
+- **25+ labs** (TryHackMe) + write-ups e desafios de CTF **em ambiente controlado**.
+- Foco em vulnerabilidades web (OWASP) e fundamentos de defesa.
 
 ---
 
 ## 📫 Contato
-- 📧 **matheusgventura10@gmail.com** - 💼 [LinkedIn](https://www.linkedin.com/in/matheusgventura)  
+- 📧 **matheusgventura10@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/matheus-ventura-a336992b2/)
 
 ---
 
