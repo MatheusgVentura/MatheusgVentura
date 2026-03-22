@@ -19,12 +19,14 @@
 
 Estudante de **Engenharia de Software** (6º semestre — IDP) com foco em **segurança defensiva** e **desenvolvimento backend**.
 Construo ferramentas, analiso ameaças e estudo como sistemas são comprometidos — para poder defendê-los melhor.
+Tenho contato com **Red Team** o suficiente pra entender o lado do atacante e aplicar isso na defesa.
 
 - 🛡️ **Blue Team:** Detecção de ameaças, análise de logs, SIEM, monitoramento e resposta a incidentes
+- 🔴 **Red Team (básico):** Pentest em ambiente controlado, reconhecimento e exploração de vulnerabilidades web
 - 🔐 **AppSec:** OWASP Top 10, JWT/RBAC, hardening e controle de acesso
 - 🔬 **Malware & RE:** Engenharia reversa e análise de binários (Assembly/C++)
 - 🐍 **Backend:** Python (Django/Flask/FastAPI) — APIs REST, TDD e design patterns
-- ⚙️ **Infra:** Docker, Linux e automação com n8n
+- ⚙️ **Infra:** Docker, Linux, Bash/Shell e automação com n8n
 
 ---
 
@@ -37,10 +39,12 @@ Construo ferramentas, analiso ameaças e estudo como sistemas são comprometidos
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=flat-square)
 
 **Infra & Dados**
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat-square)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
@@ -50,22 +54,19 @@ Construo ferramentas, analiso ameaças e estudo como sistemas são comprometidos
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white&style=flat-square)
 ![TryHackMe](https://img.shields.io/badge/-TryHackMe-212c42?logo=tryhackme&logoColor=white&style=flat-square)
 ![Splunk](https://img.shields.io/badge/-Splunk-000000?logo=splunk&logoColor=white&style=flat-square)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?logo=burpsuite&logoColor=white&style=flat-square)
 
 ---
 
 ## Projetos
-
-### 🛡️ [SIEM — Detecção e Monitoramento em Tempo Real](LINK_DO_REPO)
-SIEM próprio com motor de detecção baseado em regras, broadcast via WebSocket e dashboard ao vivo.
-`FastAPI` · `React` · `WebSocket` · `Python`
 
 ### 🔐 [Chatbot com RAG + IAM](LINK_DO_REPO)
 Chatbot com respostas ancoradas em base de conhecimento própria e controle de acesso por perfil de usuário.
 `Python` · `n8n` · `Supabase Auth` · `JWT/RBAC`
 
 ### 🚩 [Cyber Labs & Write-ups](LINK_DO_REPO)
-25+ labs do TryHackMe, write-ups de CTF e análise de vulnerabilidades web.
-`OWASP` · `Web Exploitation` · `Blue Team`
+25+ labs do TryHackMe, write-ups de CTF e análise de vulnerabilidades web — perspectiva ofensiva aplicada à defesa.
+`OWASP` · `Web Exploitation` · `Blue Team` · `Red Team`
 
 ---
 
