@@ -56,7 +56,7 @@ Tenho contato com **Red Team** o suficiente pra entender o lado do atacante e ap
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white&style=flat-square)
 ![TryHackMe](https://img.shields.io/badge/-TryHackMe-212c42?logo=tryhackme&logoColor=white&style=flat-square)
 
-**Segurança & Blue Team**
+**🛡️Segurança & Blue Team**
 
 ![Wazuh](https://img.shields.io/badge/-Wazuh-005571?logo=wazuh&logoColor=white&style=flat-square)
 ![MITRE ATT&CK](https://img.shields.io/badge/-MITRE%20ATT%26CK-DC143C?logo=mitre&logoColor=white&style=flat-square)
@@ -64,7 +64,7 @@ Tenho contato com **Red Team** o suficiente pra entender o lado do atacante e ap
 ![TryHackMe](https://img.shields.io/badge/-TryHackMe-212c42?logo=tryhackme&logoColor=white&style=flat-square)
 ![Splunk](https://img.shields.io/badge/-Splunk-000000?logo=splunk&logoColor=white&style=flat-square)
 
-**Red Team**
+**🔴Red Team**
 
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?logo=burpsuite&logoColor=white&style=flat-square)
 ![Caido](https://img.shields.io/badge/-Caido-6C47FF?logo=caido&logoColor=white&style=flat-square)
