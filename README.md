@@ -22,7 +22,7 @@ Construo ferramentas, analiso ameaças e estudo como sistemas são comprometidos
 Tenho contato com **Red Team** o suficiente pra entender o lado do atacante e aplicar isso na defesa.
 
 - 🛡️ **Blue Team:** Detecção de ameaças, análise de logs, SIEM, monitoramento e resposta a incidentes (Wazuh · MITRE ATT&CK)
-- 🔴 **Red Team (básico):** Pentest em ambiente controlado, reconhecimento e exploração de vulnerabilidades web
+- 🔴 **Red Team (básico):** Pentest em ambiente controlado, reconhecimento e exploração de vulnerabilidades web (Burp Suite / Caido)
 - 🔐 **AppSec:** OWASP Top 10, JWT/RBAC, hardening e controle de acesso
 - 🔬 **Malware & RE:** Engenharia reversa e análise de binários (Assembly/C++)
 - 🐍 **Backend:** Python (Django/Flask/FastAPI) — APIs REST, TDD e design patterns
@@ -55,8 +55,8 @@ Tenho contato com **Red Team** o suficiente pra entender o lado do atacante e ap
 ![MITRE ATT&CK](https://img.shields.io/badge/-MITRE%20ATT%26CK-DC143C?logo=mitre&logoColor=white&style=flat-square)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white&style=flat-square)
 ![TryHackMe](https://img.shields.io/badge/-TryHackMe-212c42?logo=tryhackme&logoColor=white&style=flat-square)
-![Splunk](https://img.shields.io/badge/-Splunk-000000?logo=splunk&logoColor=white&style=flat-square)
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?logo=burpsuite&logoColor=white&style=flat-square)
+![Caido](https://img.shields.io/badge/-Caido-6C47FF?logo=caido&logoColor=white&style=flat-square)
 
 ---
 
