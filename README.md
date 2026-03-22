@@ -21,7 +21,7 @@ Estudante de **Engenharia de Software** (6º semestre — IDP) com foco em **seg
 Construo ferramentas, analiso ameaças e estudo como sistemas são comprometidos — para poder defendê-los melhor.
 Tenho contato com **Red Team** o suficiente pra entender o lado do atacante e aplicar isso na defesa.
 
-- 🛡️ **Blue Team:** Detecção de ameaças, análise de logs, SIEM, monitoramento e resposta a incidentes
+- 🛡️ **Blue Team:** Detecção de ameaças, análise de logs, SIEM, monitoramento e resposta a incidentes (Wazuh · MITRE ATT&CK)
 - 🔴 **Red Team (básico):** Pentest em ambiente controlado, reconhecimento e exploração de vulnerabilidades web
 - 🔐 **AppSec:** OWASP Top 10, JWT/RBAC, hardening e controle de acesso
 - 🔬 **Malware & RE:** Engenharia reversa e análise de binários (Assembly/C++)
@@ -51,6 +51,8 @@ Tenho contato com **Red Team** o suficiente pra entender o lado do atacante e ap
 
 **Segurança & Blue Team**
 
+![Wazuh](https://img.shields.io/badge/-Wazuh-005571?logo=wazuh&logoColor=white&style=flat-square)
+![MITRE ATT&CK](https://img.shields.io/badge/-MITRE%20ATT%26CK-DC143C?logo=mitre&logoColor=white&style=flat-square)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white&style=flat-square)
 ![TryHackMe](https://img.shields.io/badge/-TryHackMe-212c42?logo=tryhackme&logoColor=white&style=flat-square)
 ![Splunk](https://img.shields.io/badge/-Splunk-000000?logo=splunk&logoColor=white&style=flat-square)
