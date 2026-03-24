@@ -49,13 +49,6 @@ Tenho contato com **Red Team** o suficiente pra entender o lado do atacante e ap
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
 
-**Segurança & Blue Team**
-
-![Wazuh](https://img.shields.io/badge/-Wazuh-005571?logo=wazuh&logoColor=white&style=flat-square)
-![MITRE ATT&CK](https://img.shields.io/badge/-MITRE%20ATT%26CK-DC143C?logo=mitre&logoColor=white&style=flat-square)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white&style=flat-square)
-![TryHackMe](https://img.shields.io/badge/-TryHackMe-212c42?logo=tryhackme&logoColor=white&style=flat-square)
-
 **🛡️Segurança & Blue Team**
 
 ![Wazuh](https://img.shields.io/badge/-Wazuh-005571?logo=wazuh&logoColor=white&style=flat-square)
