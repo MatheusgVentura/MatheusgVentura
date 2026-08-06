@@ -21,7 +21,7 @@
 
 ## Sobre mim
 
-Estudante de Engenharia de Software (6º semestre) no IDP, em Brasília. Trabalho em duas frentes que se complementam:
+Estudante de Engenharia de Software (7º semestre) no IDP, em Brasília. Trabalho em duas frentes que se complementam:
 
 - 🛡️ **Blue Team / SOC** — análise de logs, triagem de alertas e investigação de incidentes com SIEM (Wazuh como principal, Splunk em laboratório). 75+ salas concluídas no TryHackMe.
 - ⚙️ **Backend em Python** — APIs REST com Django e Django REST Framework, autenticação JWT, testes automatizados e containerização com Docker.
