@@ -58,10 +58,9 @@ Laboratório de segurança web que reproduz as 10 categorias do OWASP Top 10 em 
 `Python` · `Django` · `Docker` · `OWASP Top 10`
 ➡️ **[Ver repositório](https://github.com/MatheusgVentura/WebSecLab)**
 
-### 🔐 Projeto Institucional — IDP × União dos Escoteiros do Brasil
-Fluxo centralizado de autenticação e controle de acesso: Supabase Auth com validação de tokens JWT/Bearer, login e renovação de sessão via refresh token, e RBAC por perfil de usuário (Escoteiro e Gestor). Automações de integração com n8n e ambiente padronizado com Docker.
-`Supabase Auth` · `JWT` · `RBAC` · `n8n` · `Docker`
-<sub>Projeto institucional — repositório privado.</sub>
+### 📄 Editor de PDF
+
+Editor de PDF client-side que roda inteiramente no navegador — sem backend, sem conta e sem upload: os arquivos nunca saem da máquina do usuário. Mescla, reordena, gira e divide páginas; adiciona texto, imagens, formas e assinatura desenhada à mão; detecta e preenche campos de formulário existentes; e exporta como PNG, extrai texto ou comprime o arquivo. Construído com pdf.js (renderização e extração de texto) e pdf-lib (edição e escrita), em JavaScript puro com ES modules nativos — sem framework nem build step. `JavaScript` · `pdf.js` · `pdf-lib` · `Client-side` ➡️ Ver repositório
 
 ---
 
