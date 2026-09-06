@@ -60,7 +60,7 @@ Laboratório de segurança web que reproduz as 10 categorias do OWASP Top 10 em 
 
 ### 📄 Editor de PDF
 
-Editor de PDF client-side que roda inteiramente no navegador — sem backend, sem conta e sem upload: os arquivos nunca saem da máquina do usuário. Mescla, reordena, gira e divide páginas; adiciona texto, imagens, formas e assinatura desenhada à mão; detecta e preenche campos de formulário existentes; e exporta como PNG, extrai texto ou comprime o arquivo. Construído com pdf.js (renderização e extração de texto) e pdf-lib (edição e escrita), em JavaScript puro com ES modules nativos — sem framework nem build step. `JavaScript` · `pdf.js` · `pdf-lib` · `Client-side` ➡️ Ver repositório
+Editor de PDF client-side que roda inteiramente no navegador — sem backend, sem conta e sem upload: os arquivos nunca saem da máquina do usuário. Mescla, reordena, gira e divide páginas; adiciona texto, imagens, formas e assinatura desenhada à mão; detecta e preenche campos de formulário existentes; e exporta como PNG, extrai texto ou comprime o arquivo. Construído com pdf.js (renderização e extração de texto) e pdf-lib (edição e escrita), em JavaScript puro com ES modules nativos — sem framework nem build step. `JavaScript` · `pdf.js` · `pdf-lib` · `Client-side` ➡️ **[Ver repositório] (https://github.com/MatheusgVentura/PDF-editor?tab=readme-ov-file)**
 
 ---
 
