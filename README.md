@@ -33,11 +33,11 @@ Busco estágio em **desenvolvimento backend** ou **cibersegurança (Blue Team / 
 
 ## Stack & Ferramentas
 
-**Linguagens** — Python · TypeScript · JavaScript · SQL
-**Backend & APIs** — Django · DRF · FastAPI · JWT · PostgreSQL · Supabase
-**Frontend** — React
-**Segurança / Blue Team** — Wazuh · Splunk · Burp Suite · Caido · Wireshark · Nmap
-**Infra & Dev** — Docker · Git · pytest · Linux
+- **Linguagens** — Python · TypeScript · JavaScript · SQL.
+- **Backend & APIs** — Django · DRF · FastAPI · JWT · PostgreSQL · Supabase.
+- **Frontend** — React.
+- **Segurança / Blue Team** — Wazuh · Splunk · Burp Suite · Caido · Wireshark · Nmap.
+- **Infra & Dev** — Docker · Git · pytest · Linux.
 
 ---
 
